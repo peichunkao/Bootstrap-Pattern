@@ -1,3 +1,3 @@
-# bootstrappattern.github.io
+# Bootstarp Pattern Deom
 A demo web app built with bootstrap. </br>
 [Demo Link](https://peichunkao.github.io/bootstrappattern.github.io/)
